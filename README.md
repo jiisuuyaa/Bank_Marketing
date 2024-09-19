@@ -20,7 +20,8 @@ streamlit url:
 | Random Forest | 0.886189 | 0.805998 |
 | PyCaret | 0.384209 | 0.833177 |
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/29f4beeb-5a3b-4bdf-be4f-054ca428347f/8e10f184-39a8-4165-9d62-a9963579ddaf/image.png)
+![image (3)](https://github.com/user-attachments/assets/7ff718a5-85da-4ef2-94ed-69d881804725)
+
 
 
 
