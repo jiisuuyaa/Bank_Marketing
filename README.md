@@ -1,10 +1,12 @@
-![image](https://github.com/user-attachments/assets/4718c7df-43ca-4a61-92b5-343475b8e808)# Voting Classifier model 비교 및 최적화
-
 # 1 프로젝트 개요
 
 이 프로젝트의 목표는 은행 마케팅 데이터를 바탕으로, 고객이 캠페인에 응답하여 **deposit**을 여는지 여부를 예측하는 머신러닝 모델을 개발하고 최적화하는 것입니다.
 
+SP
 ![image (1)](https://github.com/user-attachments/assets/0c1ac6f7-abe0-4d79-8739-7ef1910b2b2a)
+
+네, 이미지 크기를 줄이겠습니다. HTML 태그를 사용하여 이미지 너비를 50%로 조정하겠습니다:
+
 
 ---
 
