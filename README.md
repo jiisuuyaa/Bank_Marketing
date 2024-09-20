@@ -111,7 +111,7 @@ best_lgbm_model.fit(X_train, y_train,
 
 |    소속    |   전공  |  이름  |
 | :--------: | :-----: | :----: |
-| 우리fis아카데미 | ai엔지니어링 | 박상민 |
+| 우리fis아카데미 | ai엔지니어링 | [강희성](https://github.com/HuiseongK) |
+| 우리fis아카데미 | ai엔지니어링 | [박상민](https://github.com/sangminpark9) |
 | 우리fis아카데미 | ai엔지니어링 | [성지수](https://github.com/jiisuuyaa) |
-| 우리fis아카데미 | ai엔지니어링 | 이하영 |
-| 우리fis아카데미 | ai엔지니어링 | 이하영 |
+| 우리fis아카데미 | ai엔지니어링 | [이하영](https://github.com/summmer12126) |
