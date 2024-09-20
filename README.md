@@ -1,12 +1,15 @@
+# 0. streamlit 사이트 화면
+
+https://github.com/user-attachments/assets/aa634a2b-76f8-4c84-b15f-de30fc196518
+
+https://github.com/user-attachments/assets/2dce1012-d874-4126-8736-c49746ca44fe
+
 # 1. 프로젝트 개요
 
 이 프로젝트의 목표는 은행 마케팅 데이터를 바탕으로, 고객이 캠페인에 응답하여 **deposit**을 여는지 여부를 예측하는 머신러닝 모델을 개발하고 최적화하는 것입니다.
 
 <img src="https://github.com/user-attachments/assets/0c1ac6f7-abe0-4d79-8739-7ef1910b2b2a" width="50%">
 
-https://github.com/user-attachments/assets/aa634a2b-76f8-4c84-b15f-de30fc196518
-
-https://github.com/user-attachments/assets/2dce1012-d874-4126-8736-c49746ca44fe
 
 ---
 
