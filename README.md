@@ -4,6 +4,10 @@
 
 <img src="https://github.com/user-attachments/assets/0c1ac6f7-abe0-4d79-8739-7ef1910b2b2a" width="50%">
 
+https://github.com/user-attachments/assets/aa634a2b-76f8-4c84-b15f-de30fc196518
+
+https://github.com/user-attachments/assets/2dce1012-d874-4126-8736-c49746ca44fe
+
 ---
 
 # 2. Voting Classifier 세부 사항
